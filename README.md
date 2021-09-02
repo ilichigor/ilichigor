@@ -25,9 +25,9 @@
   <a href="https://cmake.org"_blank"> 
     <img alt="CMake" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Breezeicons-apps-48-cmake.svg/800px-Breezeicons-apps-48-cmake.svg.png" width="40" height="40"/> 
   </a>
-  <a href="https://www.linux.org"_blank"> 
-    <img alt="Linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="40" height="40"/> 
-  </a>
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
   <a href="https://gitlab.com"_blank"> 
     <img alt="Gitlab" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="40" height="40"/> 
   </a>
