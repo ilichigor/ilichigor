@@ -5,8 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=ilichigor" alt="ilichigor profile views"/>
 </p>
 
-- 🌱 I’m currently learning **c++ on YandexPraktikum**
-
 - 📫 How to reach me: **[Telegram](https://t.me/ili2u2u)**
 
 - ⚡ What I like to do: **I like so much runing, hunting and playing boardgames...and coding of course**
