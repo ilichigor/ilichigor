@@ -10,17 +10,6 @@
 - 📫 How to reach me: **[Telegram](https://t.me/ili2u2u)**
 
 - ⚡ What I like to do: **I like so much runing, hunting and playing boardgames...and coding of course**
-
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-  <p align="center"> 
-  <a href="https://ru.linkedin.com" target="_blank"> 
-    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="css3" width="100" height="40"/> 
-  </a>
-  <a href="https://www.strava.com/" target="_blank"> 
-    <img alt="Strava" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Strava_Logo.svg" alt="Qt Logo" width="100" height="40"> 
-  </a>
-</p>
   
 </div>
 
@@ -46,8 +35,20 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlichIgor&theme=react&layout=compact" />
 </p>
 
+
+<h3 align="center">Connect with me:</h3>
+<div align="center">
+  <p align="center"> 
+  <a href="https://ru.linkedin.com" target="_blank"> 
+    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="css3" width="100" height="40"/> 
+  </a>
+  <a href="https://www.strava.com/" target="_blank"> 
+    <img alt="Strava" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Strava_Logo.svg" alt="Qt Logo" width="100" height="40"> 
+  </a>
+</p>
+  
 ------
 
 [IlichIgor](https://github.com/IlichIgor)
 
-Last Edited on: 27/08/2021
+Last Edited on: 02/09/2021
