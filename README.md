@@ -39,6 +39,7 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilichigor&theme=react&layout=compact" />
 </p>
 
+<h3 align="center">Certifications:</h3>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
