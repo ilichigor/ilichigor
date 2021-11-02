@@ -1,17 +1,7 @@
-<h1 align="center">Hi 👋, I'm Igor <img height="40"</h1>
-<h3 align="center">A passionate C++ developer from Russia</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ilichigor" alt="ilichigor profile views"/>
 </p>
-
-- 📫 How to reach me: **[Telegram](https://t.me/ili2u2u)**
-
-- ⚡ What I like to do: **I like so much runing, hunting and playing boardgames...and coding of course**
-  
-</div>
-
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">My knowlage base:</h2>
 
 <p align="center"> 
   <a href="https://en.cppreference.com/w/" target="_blank"> 
@@ -34,8 +24,8 @@
   </a>
 </p>
 
-<h3 align="center">Certifications:</h3>
-                  
+- 📫 How to reach me: **[Telegram](https://t.me/ili2u2u)**
+
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=ilichigor&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilichigor&theme=react&layout=compact" />
@@ -53,4 +43,4 @@
 
 [IlichIgor](https://github.com/IlichIgor)
 
-Last Edited on: 06/10/2021
+Last Edited on: 02/11/2021
