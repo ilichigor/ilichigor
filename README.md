@@ -26,7 +26,8 @@
 </p>
 
 <h3 align="center">Contact me:</h3>
-<div align="center">
+<div align="center">        
+<p align="center"> 
   <a href="https://ru.linkedin.com" target="_blank"> 
     <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="css3" width="200" height="40"/> 
   </a>
