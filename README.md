@@ -6,7 +6,7 @@
 
 <p align="center"> 
   <a href="https://en.cppreference.com/w/" target="_blank"> 
-    <img  alt="css3" src="https://cdn.worldvectorlogo.com/logos/c.svg" width="40" height="40"/> 
+    <img  alt="css3" src="https://cdn.worldvectorlogo.com/logos/c.svg" width="60" height="60"/> 
   </a>
   <a href="https://www.qt.io" target="_blank"> 
     <img alt="Qt Logo" src="https://www.qt.io/hubfs/qt-design-system/assets/logos/qt-logo.svg" width="40" height="40"> 
