@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ilichigor" alt="ilichigor profile views"/>
 </p>
+
 <h2 align="center">My knowlage base:</h2>
 
 <p align="center"> 
@@ -9,9 +10,6 @@
   </a>
   <a href="https://www.qt.io" target="_blank"> 
     <img alt="Qt Logo" src="https://www.qt.io/hubfs/qt-design-system/assets/logos/qt-logo.svg" width="40" height="40"> 
-  </a>
-  <a href="https://cmake.org"_blank"> 
-    <img alt="CMake" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Breezeicons-apps-48-cmake.svg/800px-Breezeicons-apps-48-cmake.svg.png" width="40" height="40"/> 
   </a>
   <a href="https://www.linux.org/" target="_blank"> 
     <img alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
@@ -24,11 +22,12 @@
   </a>
 </p>
 
+
 - 📫 How to reach me: **[Telegram](https://t.me/ili2u2u)**
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=ilichigor&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilichigor&theme=react&layout=compact" />
+  <img height= "100" src="https://github-readme-stats.vercel.app/api?username=ilichigor&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilichigor&theme=react&layout=compact" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
