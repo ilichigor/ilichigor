@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Igor <img height="40"</h1>
-<h3 align="center">A passionate C++ developer from Russia</h3>
+<h1 align="center">My knowlage base:<img height="40"</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ilichigor" alt="ilichigor profile views"/>
