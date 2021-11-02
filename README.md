@@ -12,7 +12,7 @@
     <img alt="Qt Logo" src="https://www.qt.io/hubfs/qt-design-system/assets/logos/qt-logo.svg" width="60" height="60"> 
   </a>
   <a href="https://www.linux.org/" target="_blank"> 
-    <img alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+    <img alt="Linux" src="https://camo.githubusercontent.com/5827f82f2c2d9c5bad33de64e073659d1a57032b31009b8127189be6876916d4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667" alt="linux" width="40" height="40"/> 
   </a> 
   <a href="https://gitlab.com"_blank"> 
     <img alt="Gitlab" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="60" height="60"/> 
