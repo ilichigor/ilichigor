@@ -21,7 +21,7 @@
     <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" width="80" height="40"/> 
   </a>
   <a href="https://platis.solutions/blog/2020/06/22/how-to-write-solid-cpp/"_blank"> 
-    <img alt="SOLID" src="https://raw.githubusercontent.com/solidjs/solid/main/assets/logo.png" width="60" height="40"/> 
+    <img alt="SOLID" src="https://raw.githubusercontent.com/solidjs/solid/main/assets/logo.png" width="60" height="50"/> 
   </a>
 </p>
 
