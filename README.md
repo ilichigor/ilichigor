@@ -26,8 +26,8 @@
 - 📫 How to reach me: **[Telegram](https://t.me/ili2u2u)**
 
 <p align= "center">
-  <img height= "100" src="https://github-readme-stats.vercel.app/api?username=ilichigor&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilichigor&theme=react&layout=compact" />
+  <img height= "120" src="https://github-readme-stats.vercel.app/api?username=ilichigor&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilichigor&theme=react&layout=compact" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
