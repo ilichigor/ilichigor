@@ -20,6 +20,9 @@
   <a href="https://github.com"_blank"> 
     <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" width="80" height="40"/> 
   </a>
+  <a href="https://platis.solutions/blog/2020/06/22/how-to-write-solid-cpp/"_blank"> 
+    <img alt="Git" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fsolid&psig=AOvVaw0DwKbWknQKU4QNfxVVt_wy&ust=1635926183769000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOCp4Iya-fMCFQAAAAAdAAAAABAD" width="80" height="40"/> 
+  </a>
 </p>
 
 <h3 align="center">Contact me:</h3>
