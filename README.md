@@ -29,7 +29,7 @@
 <div align="center">
   <p align="center"> 
   <a href="https://ru.linkedin.com" target="_blank"> 
-    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="css3" width="80" height="60"/> 
+    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="css3" width="80" height="150"/> 
   </a>
   <a href="https://leetcode.com/ilichigor/" target="_blank"> 
     <img alt="linkedin" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="css3" width="60" height="60"/> 
