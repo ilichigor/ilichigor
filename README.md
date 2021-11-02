@@ -18,7 +18,7 @@
     <img alt="Gitlab" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="40" height="40"/> 
   </a>
   <a href="https://github.com"_blank"> 
-    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" width="80" height="40"/> 
+    <img alt="Git" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" width="80" height="40"/> 
   </a>
   <a href="https://platis.solutions/blog/2020/06/22/how-to-write-solid-cpp/"_blank"> 
     <img alt="SOLID" src="https://raw.githubusercontent.com/solidjs/solid/main/assets/logo.png" width="70" height="50"/> 
