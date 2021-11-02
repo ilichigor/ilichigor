@@ -9,7 +9,7 @@
     <img  alt="css3" src="https://cdn.worldvectorlogo.com/logos/c.svg" width="40" height="40"/> 
   </a>
   <a href="https://www.qt.io" target="_blank"> 
-    <img alt="Qt Logo" src="https://www.qt.io/hubfs/qt-design-system/assets/logos/qt-logo.svg" width="40" height="40"> 
+    <img alt="Qt Logo" src="https://www.qt.io/hubfs/qt-design-system/assets/logos/qt-logo.svg" width="40" height="50"> 
   </a>
   <a href="https://www.linux.org/" target="_blank"> 
     <img alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
@@ -21,7 +21,7 @@
     <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" width="80" height="40"/> 
   </a>
   <a href="https://platis.solutions/blog/2020/06/22/how-to-write-solid-cpp/"_blank"> 
-    <img alt="Git" src="https://raw.githubusercontent.com/solidjs/solid/main/assets/logo.png" width="80" height="40"/> 
+    <img alt="Git" src="https://raw.githubusercontent.com/solidjs/solid/main/assets/logo.png" width="70" height="40"/> 
   </a>
 </p>
 
