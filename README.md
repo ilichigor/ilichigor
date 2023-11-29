@@ -11,6 +11,4 @@
 
   ------
 
-[IlichIgor](https://github.com/IlichIgor)
-
 Last Edited on: 22/12/2022
